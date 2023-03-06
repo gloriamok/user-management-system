@@ -121,25 +121,25 @@
 
 3. 주요 기능에 대한 실행 사례 (회원관리 서비스 사용 시나리오)
 (1) 회원가입
-![image](images/signup.png)
+  ![image](images/signup.png)
 
 (2) 로그인
-![image](images/signin.png)
+  ![image](images/signin.png)
 
 (3) 암호 재설정
-![image](images/resetpassword.png)
+  ![image](images/resetpassword.png)
 
 (4) 암호 변경
-![image](images/changepassword.png)
+  ![image](images/changepassword.png)
 
 (5) 회원 정보 조회
-![image](images/printuserinfo.png)
+  ![image](images/printuserinfo.png)
 
 (6) 회원 정보 수정
-![image](images/edituserinfo.png)
+  ![image](images/edituserinfo.png)
 
 (7) 회원 탈퇴 및 종료
-![image](images/deleteuser.png)
+  ![image](images/deleteuser.png)
 
 4. 한계점 및 개선 사항
 -	데이터베이스나 자바 프로그램의 데이터 구조를 사용하지 않아서 한 명의 회원, 한 개의 아이디, 비밀번호 밖에 관리할 수 없는 것이 이 커스텀 프로그램의 한계이다. 데이터베이스나 자바 데이터 구조를 배워서 프로그램을 개선하고 싶다.
