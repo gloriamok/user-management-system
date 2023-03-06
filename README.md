@@ -119,27 +119,27 @@
 (11) 메인 클래스: ProgramTest
 -	회원 관리 프로그램의 기능들(회원가입, 로그인, 암호 재설정, 암호 변경, 회원 정보 조회, 회원정보 수정, 회원 탈퇴)을 하나씩 시뮬레이션 후 메뉴 입력이 가능한 회원 관리 프로그램을 실행한다.
 
-3. 주요 기능에 대한 실행 사례 (회원관리 서비스 사용 시나리오)
-(1) 회원가입
-  ![image](images/signup.png)
+3. 주요 기능에 대한 실행 사례 (회원관리 서비스 사용 시나리오)<br>
+(1) 회원가입<br>
+![image](images/signup.png)<br>
 
-(2) 로그인
-  ![image](images/signin.png)
+(2) 로그인<br>
+![image](images/signin.png)<br>
 
-(3) 암호 재설정
-  ![image](images/resetpassword.png)
+(3) 암호 재설정<br>
+![image](images/resetpassword.png)<br>
 
-(4) 암호 변경
-  ![image](images/changepassword.png)
+(4) 암호 변경<br>
+![image](images/changepassword.png)<br>
 
-(5) 회원 정보 조회
-  ![image](images/printuserinfo.png)
+(5) 회원 정보 조회<br>
+![image](images/printuserinfo.png)<br>
 
-(6) 회원 정보 수정
-  ![image](images/edituserinfo.png)
+(6) 회원 정보 수정<br>
+![image](images/edituserinfo.png)<br>
 
-(7) 회원 탈퇴 및 종료
-  ![image](images/deleteuser.png)
+(7) 회원 탈퇴 및 종료<br>
+![image](images/deleteuser.png)<br>
 
 4. 한계점 및 개선 사항
 -	데이터베이스나 자바 프로그램의 데이터 구조를 사용하지 않아서 한 명의 회원, 한 개의 아이디, 비밀번호 밖에 관리할 수 없는 것이 이 커스텀 프로그램의 한계이다. 데이터베이스나 자바 데이터 구조를 배워서 프로그램을 개선하고 싶다.
